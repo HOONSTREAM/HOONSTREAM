@@ -1,4 +1,7 @@
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOONSTREAM&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=HOONSTREAM&show_icons=true">
+
 
 <h3 align="center"><b>📚 Languages 📚</b></h3>
 </br>
